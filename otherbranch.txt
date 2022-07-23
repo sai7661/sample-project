@@ -1,5 +1,5 @@
 <html>
 <body>
-<h1><p style="background color:gray"> this is other branch project </p></h1>
+<h1><p style="background color:purple"> this is other branch project </p></h1>
 </body>
 </html>
